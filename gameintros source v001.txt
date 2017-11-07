@@ -1,0 +1,15 @@
+{
+	"origin": ["#chunk1# #chunk2#"],
+	"chunk1": ["#time# ago, a #storything# was #thingverbs#,", "In the #placeadj# #placenoun# of #namechunk1##namechunk2#,"],
+	"chunk2": ["a #charplayer.a# #charverbs#. This is their #initialnoun#.", "bob"],
+	"time":["11111","22222", "33333"],
+	"storything": ["11111","22222", "33333"],
+	"thingverbs": ["11111","22222", "33333"],
+	"placeadj": ["11111","22222", "33333"],
+	"placenoun": ["11111","22222", "33333"],
+	"namechunk1": ["11111","22222", "33333"],
+	"namechunk2": ["11111","22222", "33333"],
+	"charplayer": ["11111","22222", "33333"],
+	"charverbs": ["11111","22222", "33333"],
+	"initialnoun": ["story","tale", "journey"]
+}
