@@ -1,0 +1,15 @@
+{
+	"origin": ["#chunk1# #chunk2#"],
+	"chunk1": ["#time# ago, #storything.a# was #thingverbs#,", "In the #placeadj# #placenoun# of #namechunk1##namechunk2#,"],
+	"chunk2": ["#charplayer.a# #charverbs#. This is their #initialnoun#.", "#charplayer.a# #charverbs#. What lies ahead?"],
+	"time":["Aeons","Millennia", "Seasons"],
+	"storything": ["castle", "kingdom", "ancient evil"],
+	"thingverbs": ["destroyed", "forsaken", "cursed"],
+	"placeadj": ["quiet", "quaint", "safe"],
+	"placenoun": ["village", "hamlet", "township"],
+	"namechunk1": ["Herald","Fort", "Iron"],
+	"namechunk2": ["summer", "winter", "shire", "ton"],
+	"charplayer": ["thief", "paladin", "orc"],
+	"charverbs": ["awakens", "departs"],
+	"initialnoun": ["story", "tale", "journey"]
+}
